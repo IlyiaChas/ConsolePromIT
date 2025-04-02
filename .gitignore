@@ -1,0 +1,45 @@
+# Build artifacts
+bin/
+obj/
+
+# Rider / VS Code / VS
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Temporary files
+*.tmp
+*.cache
+*.pid
+*.swp
+
+# dotnet tools
+.dotnet_tools/
+.dotnet-tools.json
+
+# Global dotnet settings
+.dotnet/
+
+# User secrets
+secrets.json
+
+# Resharper files
+*.DotSettings.user
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml

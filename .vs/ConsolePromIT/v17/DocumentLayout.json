@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53EAB630-E653-4885-93EF-3BCD6B771E35}|ConsolePromIT\\ConsolePromIT.csproj|d:\\baseapplication\\123213123123\\consolepromit\\consolepromit\\services\\parsingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EAB630-E653-4885-93EF-3BCD6B771E35}|ConsolePromIT\\ConsolePromIT.csproj|solutionrelative:consolepromit\\services\\parsingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EAB630-E653-4885-93EF-3BCD6B771E35}|ConsolePromIT\\ConsolePromIT.csproj|d:\\baseapplication\\123213123123\\consolepromit\\consolepromit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EAB630-E653-4885-93EF-3BCD6B771E35}|ConsolePromIT\\ConsolePromIT.csproj|solutionrelative:consolepromit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B6278-DE7E-480D-BCCD-16CBFDE47DC1}|ConsolePromIT.Core\\ConsolePromIT.Core.csproj|d:\\baseapplication\\123213123123\\consolepromit\\consolepromit.core\\models\\wordstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B6278-DE7E-480D-BCCD-16CBFDE47DC1}|ConsolePromIT.Core\\ConsolePromIT.Core.csproj|solutionrelative:consolepromit.core\\models\\wordstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E7D3CD-D589-4176-B215-44ADC32D475F}|ConsolePromIT.Data\\ConsolePromIT.Data.csproj|d:\\baseapplication\\123213123123\\consolepromit\\consolepromit.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E7D3CD-D589-4176-B215-44ADC32D475F}|ConsolePromIT.Data\\ConsolePromIT.Data.csproj|solutionrelative:consolepromit.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1585824621:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ConsolePromIT.Data\\DataContext.cs",
+              "ToolTip": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT.Data\\DataContext.cs",
+              "RelativeToolTip": "ConsolePromIT.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:45:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordStatistic.cs",
+              "DocumentMoniker": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT.Core\\Models\\WordStatistic.cs",
+              "RelativeDocumentMoniker": "ConsolePromIT.Core\\Models\\WordStatistic.cs",
+              "ToolTip": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT.Core\\Models\\WordStatistic.cs",
+              "RelativeToolTip": "ConsolePromIT.Core\\Models\\WordStatistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:45:25.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolePromIT\\Program.cs",
+              "ToolTip": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT\\Program.cs",
+              "RelativeToolTip": "ConsolePromIT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:45:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParsingService.cs",
+              "DocumentMoniker": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT\\Services\\ParsingService.cs",
+              "RelativeDocumentMoniker": "ConsolePromIT\\Services\\ParsingService.cs",
+              "ToolTip": "D:\\BaseApplication\\123213123123\\ConsolePromIT\\ConsolePromIT\\Services\\ParsingService.cs",
+              "RelativeToolTip": "ConsolePromIT\\Services\\ParsingService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:44:03.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
