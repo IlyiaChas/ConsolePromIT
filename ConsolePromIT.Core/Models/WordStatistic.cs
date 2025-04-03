@@ -12,5 +12,7 @@ namespace ConsolePromIT.Core.Models
         public string Word { get; set; }
 
         public int Count { get; set; } = 1;
+        [Timestamp]
+        public byte[] RowVersion { get; set; }
     }
 }
